@@ -1,5 +1,7 @@
 # TonyCrane's Slide Template
 
+> 该仓库使用了 [TonyCrane - slide-template](https://github.com/TonyCrane/slide-template) 的模板
+
 一个 [reveal-md](https://github.com/webpro/reveal-md) 的简单主题，部分参考了 [jyywiki](https://jyywiki.cn) 的主题。（应该会随着我的使用不断更新）
 
 预览：https://slides.tonycrane.cc/RevealmdTemplate
